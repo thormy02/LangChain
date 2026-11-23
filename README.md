@@ -1,0 +1,2 @@
+# LangChain
+bureaucracy traductor (bot)
